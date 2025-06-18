@@ -17,7 +17,7 @@
     "precommit": "simple-git-hooks && lint-staged"
   },
   "dependencies": {
-    "@expo/html-elements": "0.12.2",
+    "@expo/html-elements": "0.12.5",
     "@expo/match-media": "^0.4.0",
     "@radix-ui/react-hover-card": "^1.1.7",
     "@radix-ui/react-tooltip": "^1.2.0",
