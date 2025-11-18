@@ -34,7 +34,7 @@
     "react-content-loader": "^7.0.2",
     "react-dom": "^18.3.1",
     "react-easy-linkify": "^1.0.8",
-    "react-native": "0.79.1",
+    "react-native": "0.81.0",
     "react-native-safe-area-context": "^5.4.0",
     "react-native-svg": "^15.11.2",
     "react-native-web": "^0.20.0",
